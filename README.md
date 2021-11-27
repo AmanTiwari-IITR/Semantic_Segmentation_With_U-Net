@@ -90,8 +90,7 @@ The final directory strucutre will be as follows
 
 * Matplotlib
 
-* torch
-* torchvision<br>
+* tensorflow
   
 * PIL
 
